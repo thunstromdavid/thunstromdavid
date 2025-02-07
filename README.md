@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👨‍🎓 About Me
-- I’m a civil engineering student specializing in computer science at KTH (Royal Institute of Technology). I’m passionate about building innovative solutions that blend my technical knowledge with practical applications.
+- I’m an engineering student specializing in computer science at KTH (Royal Institute of Technology). I’m passionate about building innovative solutions that blend my technical knowledge with practical applications.
 
 🎯 Interests
 - Software Development: From front-end interfaces to back-end logic, I love crafting software solutions that work seamlessly.
